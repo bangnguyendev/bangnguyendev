@@ -1,4 +1,3 @@
-![Peek 2020-07-09 15-53](https://user-images.githubusercontent.com/7910856/87048834-84abea80-c1fc-11ea-9342-27b96a046ba4.gif)
 
 <p  align="center">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="github stats"></br>
@@ -7,6 +6,13 @@
   </br></p>
 
 ---
+<h2 align="center"> 👨‍💻 Whoami</h2>
+<p align="center">
+  <samp>A highly resourceful computer programmer and well-rounded IT professional with over five years of computing experience, possessing expert knowledge of the software development lifecycle and a solid understanding of technologies required for the development and deployment of highly available and scalable applications, including their networks and infrastructure.
+  </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=bangnguyendev" alt="https://github.com/bangnguyendev" />
+</p>
 
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
