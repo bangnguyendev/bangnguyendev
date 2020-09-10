@@ -10,13 +10,23 @@
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="github stats"></br>
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
-  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/3-stats.svg">
   </br></p>
 
 ---
 
-<p  align="center">
-<a href= "https://bangnguyendev.github.io/"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/bangnguyenduy"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://www.youtube.com/chip140494"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
+<h2 align="center">💬 My Blog Articles</h2>
+<p align="center" align='right'>
+  <a target="_blank"href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://medium.com/@ileriayoadebiyi"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 </p>
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/bangnguyenduy/"><img src="https://img.shields.io/badge/-Linkedin-yellowgreen" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ileriayoadebiyi@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/-Instagram-orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<hr>
+
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
