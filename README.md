@@ -14,8 +14,8 @@
 ---
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Passionate about programming...💻
-    Experience in unit test 🐻‍❄️
+  <samp>Passionate about programming...💻<br> 
+    Experience in unit test 🐻‍❄️<br> 
     I love bloging 📚🥥
   </samp>
   <br> 
