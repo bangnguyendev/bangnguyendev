@@ -1,4 +1,8 @@
 <p  align="center">
+  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/img/traidat.gif">
+  </br>
+</p>
+<p  align="center">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/0-profile-details.svg">
   </br>
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
