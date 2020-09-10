@@ -8,6 +8,7 @@
   </br>
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/1-repos-per-language.svg">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
+  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/3-stats.svg">
   </br>
 </p>
 
@@ -23,7 +24,6 @@
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
   <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Github-MyBlog-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
-  
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
