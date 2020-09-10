@@ -1,3 +1,4 @@
+<p  align="center">
 <style>
 	/* Main styles */
 	@import url(http://fonts.googleapis.com/css?family=Open+Sans:800);
@@ -103,6 +104,7 @@
        ></use>
   
 </svg>
+</p>
 
 <p  align="center">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/img/hiambang.gif">
