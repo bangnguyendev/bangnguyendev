@@ -1,3 +1,29 @@
+<svg viewBox="0 0 1200 300">
+
+  <!-- Symbol -->
+  <symbol id="s-text">
+    <text text-anchor="middle"
+          x="50%" y="50%" dy=".35em">
+      Hi. I'm Bang
+    </text>
+  </symbol>  
+
+  <!-- Duplicate symbols -->
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  <use xlink:href="#s-text" class="text"
+       ></use>
+  
+</svg>
+
 <p  align="center">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/0-profile-details.svg">
   </br>
