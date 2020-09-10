@@ -1,5 +1,6 @@
 <p  align="center">
   <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/img/hiambang.gif">
+  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/img/file_hinh.svg">
   </br>
 </p>
 
