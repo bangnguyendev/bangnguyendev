@@ -18,7 +18,7 @@
 <h2 align="center">💬 My Blog Articles</h2>
 <p align="center" align='right'>
   <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Github-MyBlog-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Mail-duybang140494%40gmail.com-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Mail-duybang140494%40gmail.com-brightgreen"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
@@ -29,5 +29,4 @@
 </p>
 
 <hr>
-
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
