@@ -16,13 +16,13 @@
 <p align="center">
   <samp>Passionate about programming...💻<br>
     🛡️⚙️ Tool 🧰🛠️<br>
-    <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen">
-    <img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen">
-    <img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen">
+    <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-006400">
+    <img src="https://img.shields.io/badge/IDE%20-Eclipse-blueviolet">
+    <img src="https://img.shields.io/badge/ETAS%20-ASCET-ff69b4">
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
     📖📚🗞️🏅<br>
-    <img src="https://img.shields.io/badge/C-language-yellowgreene">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen">
     <img src="https://img.shields.io/badge/-Python-orange">
     <img src="https://img.shields.io/badge/-Markdown-blue">
     <img src="https://img.shields.io/badge/-Bash-red"><br>
