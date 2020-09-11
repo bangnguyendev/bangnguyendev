@@ -14,11 +14,18 @@
 ---
 <h2 align="center"> 👨‍ Whoami - ⚙️Tool</h2>
 <p align="center">
-  <samp>Passionate about programming...💻<br> 
-    ⚙️&nbsp;<img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen"><br> 
-    🧰&nbsp;<img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen"><br> 
-    🛠️&nbsp;<img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen"><br> 
-    🛡️&nbsp;<img src="https://img.shields.io/badge/Visual%20Studio-Code-blue"><br>
+  <samp>Passionate about programming...💻<br>
+    🛡️⚙️ Tool 🧰🛠️<br>
+    <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen"><br> 
+    <img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen"><br> 
+    <img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen"><br> 
+    <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue"><br>
+    <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
+    📖📚🗞️📑<br>
+    <img src="https://img.shields.io/badge/C-language-yellowgreene">
+    <img src="https://img.shields.io/badge/-Python-orange">
+    <img src="https://img.shields.io/badge/-Markdown-blue">
+    <img src="https://img.shields.io/badge/-Bash-red"><br>
   </samp>
   <br> 
 
