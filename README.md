@@ -25,14 +25,15 @@
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen">
     <img src="https://img.shields.io/badge/-Python-orange">
     <img src="https://img.shields.io/badge/-Markdown-blue">
-    <img src="https://img.shields.io/badge/-Bash-red"><br>
+    <img src="https://img.shields.io/badge/-Bash-red">
   </samp>
   <br> 
 </p>
-
+---
 <h2 align="center">💬 My Blog Articles 🌠</h2>
 <p align="center" align='right'>
-  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=bangnguyendev">
+  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen"/>
 </p>
 
 <h2  align="center">📫 Reach me on</h2>
@@ -45,4 +46,3 @@
 </p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-<img src="https://komarev.com/ghpvc/?username=bangnguyendev">
