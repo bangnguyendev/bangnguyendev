@@ -12,15 +12,13 @@
 </p>
 
 ---
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍ Whoami - ⚙️Tool</h2>
 <p align="center">
   <samp>Passionate about programming...💻<br> 
-    Experience in unit test 🐻‍❄️<br> 
-    I love bloging 📚🥥<br> 
-    ⚙️<img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen">&nbsp;&nbsp;&nbsp;&nbsp;
-    🧰<img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen">&nbsp;&nbsp;&nbsp;&nbsp;
-    🛠️<img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen">&nbsp;&nbsp;&nbsp;&nbsp;
-    🛡️<img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">&nbsp;&nbsp;&nbsp;&nbsp;
+    ⚙️<img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen"><br> 
+    🧰<img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen"><br> 
+    🛠️<img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen"><br> 
+    🛡️<img src="https://img.shields.io/badge/Visual%20Studio-Code-blue"><br>
   </samp>
   <br> 
   <img src="https://komarev.com/ghpvc/?username=bangnguyendev">
