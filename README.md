@@ -39,10 +39,10 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bangnguyenduy/"><img src="https://img.shields.io/badge/Linkedin-bangnguyenduy-yellowgreen" /></a><br> 
-  <a href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/Facebook-drake.bangnguyen-blue" /></a><br> 
-  <a href="https://www.instagram.com/nguyen.duy.bang/?hl=vi"><img src="https://img.shields.io/badge/Instagram-nguyen.duy.bang-orange" /></a><br> 
-  <img src="https://img.shields.io/badge/E--Mail-duybang140494%40gmail.com-brightgreen"/>
+  <a href="https://www.linkedin.com/in/bangnguyenduy/"><img src="https://img.shields.io/badge/Linkedin-bangnguyenduy-yellowgreen?style=for-the-badge&logo=linkedin" /></a><br> 
+  <a href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/Facebook-drake.bangnguyen-blue?style=for-the-badge&logo=facebook" /></a><br> 
+  <a href="https://www.instagram.com/nguyen.duy.bang/?hl=vi"><img src="https://img.shields.io/badge/Instagram-nguyen.duy.bang-orange?style=for-the-badge&logo=instagram" /></a><br> 
+  <img src="https://img.shields.io/badge/E--Mail-duybang140494%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
