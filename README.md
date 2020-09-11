@@ -25,11 +25,9 @@
     <img src="https://img.shields.io/badge/C-language-yellowgreene">
     <img src="https://img.shields.io/badge/-Python-orange">
     <img src="https://img.shields.io/badge/-Markdown-blue">
-    ![](https://img.shields.io/badge/-Markdown-blue)
     <img src="https://img.shields.io/badge/-Bash-red"><br>
   </samp>
   <br> 
-
 </p>
 
 <h2 align="center">💬 My Blog Articles 🌠</h2>
