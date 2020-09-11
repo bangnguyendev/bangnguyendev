@@ -39,9 +39,9 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bangnguyenduy/"><img src="https://img.shields.io/badge/-Linkedin-yellowgreen" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nguyen.duy.bang/?hl=vi"><img src="https://img.shields.io/badge/-Instagram-orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/bangnguyenduy/"><img src="https://img.shields.io/badge/Linkedin-bangnguyenduy-yellowgreen" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/Facebook-drake.bangnguyen-blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/nguyen.duy.bang/?hl=vi"><img src="https://img.shields.io/badge/Instagram-nguyen.duy.bang-orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
   <img src="https://img.shields.io/badge/E--Mail-duybang140494%40gmail.com-brightgreen"/></a>&nbsp;&nbsp;&nbsp;
 </p>
