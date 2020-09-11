@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen"><br> 
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue"><br>
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
-    📖📚🗞️📑<br>
+    📖📚🗞️🏅<br>
     <img src="https://img.shields.io/badge/C-language-yellowgreene">
     <img src="https://img.shields.io/badge/-Python-orange">
     <img src="https://img.shields.io/badge/-Markdown-blue">
@@ -31,7 +31,7 @@
 
 </p>
 
-<h2 align="center">💬 My Blog Articles 🇻🇳</h2>
+<h2 align="center">💬 My Blog Articles 🌠</h2>
 <p align="center" align='right'>
   <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen" /></a>&nbsp;&nbsp;&nbsp;
 </p>
