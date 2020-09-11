@@ -16,10 +16,10 @@
 <p align="center">
   <samp>Passionate about programming...💻<br>
     🛡️⚙️ Tool 🧰🛠️<br>
-    <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen"><br> 
-    <img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen"><br> 
-    <img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen"><br> 
-    <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue"><br>
+    <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-brightgreen">
+    <img src="https://img.shields.io/badge/Eclipse%20-IDE-brightgreen">
+    <img src="https://img.shields.io/badge/ETAS%20-ASCET-brightgreen">
+    <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
     📖📚🗞️🏅<br>
     <img src="https://img.shields.io/badge/C-language-yellowgreene">
