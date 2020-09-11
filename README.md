@@ -29,7 +29,8 @@
   </samp>
   <br> 
 </p>
----
+
+------
 <h2 align="center">💬 My Blog Articles 🌠</h2>
 <p align="center" align='right'>
   <img src="https://komarev.com/ghpvc/?username=bangnguyendev">
@@ -42,7 +43,7 @@
   <a href="https://www.facebook.com/drake.bangnguyen/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/nguyen.duy.bang/?hl=vi"><img src="https://img.shields.io/badge/-Instagram-orange" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/Mail-duybang140494%40gmail.com-brightgreen"/></a>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/E--Mail-duybang140494%40gmail.com-brightgreen"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
