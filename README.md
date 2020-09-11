@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/ETAS%20-ASCET-ff69b4">
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
-    📖📚🗞️🏅<br>
+    📖📚 Language 🗞️🏅<br>
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen">
     <img src="https://img.shields.io/badge/-Python-orange">
     <img src="https://img.shields.io/badge/-Markdown-blue">
