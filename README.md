@@ -23,8 +23,8 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
     📖📚 Language 🗞️🏅<br>
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen?style=plastic&logo=c">
-    <img src="https://img.shields.io/badge/-Python-ffff66?style=plastic&logo=python">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen?style=flat&logo=">
+    <img src="https://img.shields.io/badge/-Python-ffff66?style=flat&logo=python">
     <img src="https://img.shields.io/badge/-Markdown-blue">
     <img src="https://img.shields.io/badge/Unix-Bash-red">
   </samp>
