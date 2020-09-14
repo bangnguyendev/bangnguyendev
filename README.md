@@ -22,6 +22,8 @@
     <img src="https://img.shields.io/badge/ETAS%20-ASCET-ff69b4">
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
+    <img src="https://img.shields.io/badge/-Jira%20Software-brightgreen?style=flat&logo=jira">
+    <img src="https://img.shields.io/badge/-Jenkins%20Software-blueviolet?style=flat&logo=Jenkins"><br>
     📖📚 Language 🗞️🏅<br>
     <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen?style=flat&logo=">
     <img src="https://img.shields.io/badge/-Python-ffff00?style=flat&logo=python">
