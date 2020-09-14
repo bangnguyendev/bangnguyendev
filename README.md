@@ -14,7 +14,8 @@
 ---
 <h2 align="center"> 👨‍ Whoami - ⚙️Tool</h2>
 <p align="center">
-  <samp>Passionate about programming...💻<br>
+  <samp>🛠️Passionate about programming...💻<br>
+    🚀I am an avid open source enthusiast, contributor and developer.🧲 <br>💼And I'm currently a Embedded Systems Engineer at Ban Vien company.🏤<br>
     🛡️⚙️ Tool 🧰🛠️<br>
     <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-006400">
     <img src="https://img.shields.io/badge/IDE%20-Eclipse-blueviolet">
@@ -22,10 +23,10 @@
     <img src="https://img.shields.io/badge/Visual%20Studio-Code-blue">
     <img src="https://img.shields.io/badge/Android-Studio-brightgreen"><br>
     📖📚 Language 🗞️🏅<br>
-    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen">
-    <img src="https://img.shields.io/badge/-Python-orange">
+    <img src="https://img.shields.io/badge/C%2FC%2B%2B-Language-brightgreen?style=plastic&logo=c">
+    <img src="https://img.shields.io/badge/-Python-ffff66?style=plastic&logo=python">
     <img src="https://img.shields.io/badge/-Markdown-blue">
-    <img src="https://img.shields.io/badge/-Bash-red">
+    <img src="https://img.shields.io/badge/Unix-Bash-red">
   </samp>
   <br> 
 </p>
