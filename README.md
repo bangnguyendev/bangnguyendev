@@ -16,6 +16,7 @@
 <p align="center">
   <samp>🛠️Passionate about programming...💻<br>
     🚀I am an avid open source enthusiast, contributor and developer.🧲 <br>💼And I'm currently a Embedded Systems Engineer at Ban Vien company.🏤<br>
+      <img src="https://komarev.com/ghpvc/?username=bangnguyendev"><br>
     🛡️⚙️ Tool 🧰🛠️<br>
     <img src="https://img.shields.io/badge/Cantata-QA%7CSYSTEMS-006400">
     <img src="https://img.shields.io/badge/IDE%20-Eclipse-blueviolet">
@@ -35,9 +36,8 @@
 
 ------
 <h2 align="center">💬 My Blog Articles 🌠</h2>
-<p align="center" align='right'>
-  <img src="https://komarev.com/ghpvc/?username=bangnguyendev">
-  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen"/>
+<p align="center">
+  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen?style=for-the-badge&logo=github"/>
 </p>
 
 <h2  align="center">📫 Reach me on 🧧</h2>
