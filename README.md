@@ -37,7 +37,7 @@
 ------
 <h2 align="center">💬 My Blog Articles 🌠</h2>
 <p align="center">
-  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-brightgreen?style=for-the-badge&logo=github"/>
+  <a href="https://bangnguyendev.github.io/"><img src="https://img.shields.io/badge/Myblog%3A-bangnguyendev.github.io-8B008B?style=for-the-badge&logo=github"/>
 </p>
 
 <h2  align="center">📫 Reach me on 🧧</h2>
