@@ -4,11 +4,15 @@
 </p>
 
 <p  align="center">
-  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/0-profile-details.svg">
-  </br>
-  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/2-most-commit-language.svg">
-  <img src="https://github.com/bangnguyendev/bangnguyendev/blob/master/profile-summary-card-output/solarized/3-stats.svg">
-  </br>
+  
+  <img src="https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/vue/0-profile-details.svg">
+   </br>
+  <img src="https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/vue/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/vue/2-most-commit-language.svg">
+   </br>
+  <img src="https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/vue/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/vue/4-productive-time.svg">
+   </br>
 </p>
 
 ---
