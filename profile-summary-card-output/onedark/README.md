@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/onedark/4-productive-time.svg)
+```
+
+    
