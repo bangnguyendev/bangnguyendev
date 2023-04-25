@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/merko/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/bangnguyendev/bangnguyendev/master/profile-summary-card-output/merko/4-productive-time.svg)
+```
+
+    
